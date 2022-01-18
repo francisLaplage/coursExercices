@@ -63,6 +63,12 @@ let nb4 = prompt("Entrer la première valeur"),
         borne_min = nb5;
         borne_max =nb5;
     }
+    // 
+    if(nb1> borne_min && nb1  < borne_max){
+        console.log(nb1 + 'appartient à  ]'+borne_min +','+borne_max+'[');
+    }else{
+        console.log(nb1 + 'n\'appartient pas à  ]'+borne_min +','+borne_max+'[');
+    }
 
 
 
