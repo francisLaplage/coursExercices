@@ -73,5 +73,4 @@
         do{
             console.log("Bonjour  X " + somme);
             somme = somme + 1;
-
         }while(somme < 10);
