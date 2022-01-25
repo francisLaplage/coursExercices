@@ -1,0 +1,26 @@
+.text-blue{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: right;
+    background-color: chartreuse;
+    color: darkblue;
+    height: 80px;
+}
+.btn{
+    background-color: darkgreen;
+    color: #fff;
+    min-width: 120px;
+    height: 30px;
+    text-align: center;
+    border: 1px solid #000;
+    border-radius: 4px;
+    margin: 15px;
+}
+.btn1{
+    background-color: blue;
+}
+.btn3{
+    background-color: #ff0000;
+}
+.btn4{
+    background-color: darkgray;
+}
